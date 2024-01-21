@@ -39,7 +39,7 @@
                 <input type="password" placeholder="Insira sua Senha" name="password" class="form-control" required>
             </div>
             <br>
-            <p>Não tem uma conta?<a href="/track/registration.php">Criar</a></p>
+            <p>Não tem uma conta?<a href="/registration.php">Criar</a></p>
             <div class="form-btn">
                 <input type="submit" value="Login" name="login" class="btn btn-success">
             </div>
